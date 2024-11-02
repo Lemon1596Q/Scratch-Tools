@@ -14,4 +14,4 @@ if __name__ == "__main__":
     for user in users:
         sc.invite_curator(user,35841742)
         time.sleep(2)
-        print()
+        print('test')
